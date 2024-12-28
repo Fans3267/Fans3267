@@ -1,7 +1,6 @@
 ## 🍫🧇 
 ### An Inexperience Coder Currently Learning in College.
 - 🌎Lang: **English/Mandarin/Taiwanese**
-- 🏃Gender: **Male**
 - 🎀Pronouns: **She/Her**
 - 💻Learning: **CPP, JAVA, PYTHON, HTML+CSS**
 <hr>
