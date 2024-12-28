@@ -6,7 +6,7 @@
 - 💻Learning: **CPP, JAVA, PYTHON, HTML+CSS**
 <hr>
 
-[Discord](https://discord.com/users/356280287837159437)
+> ##### [Discord](https://discord.com/users/356280287837159437)
 
 <!---
 Fans3267/Fans3267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
